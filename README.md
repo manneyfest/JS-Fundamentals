@@ -27,3 +27,8 @@ If no arguments are provided, it prints:
 No argument
 
 If an argument is 
+
+4-concat.js
+
+Prints two arguments in the format: `<first> is <second>`.  
+If arguments are missing, `undefined` is shown in their place.
