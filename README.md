@@ -37,3 +37,8 @@ If arguments are missing, `undefined` is shown in their place.
 
 Prints `My number: <int>` if the argument can be parsed as an integer.  
 If not, it prints `Not a number`.
+
+6-multi_languages_loop.js
+
+Prints 3 predefined strings using an array and a loop.  
+Uses only one `console.log` inside the loop.
