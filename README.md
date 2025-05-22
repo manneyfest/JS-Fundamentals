@@ -42,3 +42,8 @@ If not, it prints `Not a number`.
 
 Prints 3 predefined strings using an array and a loop.  
 Uses only one `console.log` inside the loop.
+
+7-multi_c.js
+
+Prints “C is fun” `x` times, where `x` is the first command-line argument.  
+If `x` is not a valid integer, prints “Missing number of occurrences”.
