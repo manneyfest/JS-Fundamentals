@@ -47,3 +47,12 @@ Uses only one `console.log` inside the loop.
 
 Prints “C is fun” `x` times, where `x` is the first command-line argument.  
 If `x` is not a valid integer, prints “Missing number of occurrences”.
+
+8-square.js
+
+This script prints a square of a given size using the character `X`.
+
+## Usage
+
+```bash
+node 8-square.js <size>
