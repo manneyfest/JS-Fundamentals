@@ -18,3 +18,12 @@ No arguments
 One argument 
 
 Two or more arguments 
+
+3-value_argument.js
+
+This script prints the first argument passed to it via the command line.
+
+If no arguments are provided, it prints:
+No argument
+
+If an argument is 
