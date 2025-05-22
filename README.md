@@ -32,3 +32,8 @@ If an argument is
 
 Prints two arguments in the format: `<first> is <second>`.  
 If arguments are missing, `undefined` is shown in their place.
+
+5-to_integer.js
+
+Prints `My number: <int>` if the argument can be parsed as an integer.  
+If not, it prints `Not a number`.
